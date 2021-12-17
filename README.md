@@ -81,4 +81,22 @@ SFS工具箱官网:http://www.sfs0.cn
 安装过工具箱后，直接在终端输入sfs回车执行即可快捷启动工具箱
 
 # 安装命令
+
+```
 yum -y install wget;wget -O sfstool.sh sfs0.cn/sfstool/sfstool.sh;chmod 777 sfstool.sh;./sfstool.sh
+```
+
+# 工具箱V1.0.2版本图片
+![-25b9d1914e0d2715](https://user-images.githubusercontent.com/84900137/146606230-4d1cbf67-cdd6-4b06-9a11-ab4dc2f11ce1.png)
+![-5d321687d55bc883](https://user-images.githubusercontent.com/84900137/146606254-140118aa-6a92-4607-a42b-f0eff8b80d84.png)
+![-6b61a8e37b316bf8](https://user-images.githubusercontent.com/84900137/146606278-c76fe9aa-630f-4807-bccc-53fc23cc2c0c.png)
+![-3c9cf6bc2ac5f27e](https://user-images.githubusercontent.com/84900137/146606296-d9d56a99-29a2-4827-9aa2-4873552326d0.png)
+![-413d70705dc2480a](https://user-images.githubusercontent.com/84900137/146606313-e980d7f3-00ba-4f75-9956-fe6eaf9a953d.png)
+![65d9a57ef05bbbe6](https://user-images.githubusercontent.com/84900137/146606341-8b0a7d6c-69e3-402a-b969-88ca714ee5c5.png)
+![-6e70bc61eeda00e3](https://user-images.githubusercontent.com/84900137/146606350-e056dd22-9ff8-4bdd-abd1-dcd817e9df4c.png)
+![-65a3404deaabcdc0](https://user-images.githubusercontent.com/84900137/146606367-e8a923f5-4125-423e-99f2-624307c2ac15.png)
+![-2ac11c75cd61da24](https://user-images.githubusercontent.com/84900137/146606380-99431996-1149-4a9a-b430-d9e38b578009.png)
+等等功能太多就不一一介绍，每天都会更新不同功能，具体还得你们亲身体验和反馈，欢迎各位大佬有好项目联系我，加入工具箱
+
+# 赞助我们
+![mmexport1638188358249](https://user-images.githubusercontent.com/84900137/146606116-8bc5cb4e-2fd3-4a57-a070-d613ca64088a.png)
