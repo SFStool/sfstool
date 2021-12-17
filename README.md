@@ -1,3 +1,4 @@
+![logo](https://user-images.githubusercontent.com/84900137/146605573-17cfbf9b-e370-4ff0-9e60-963c3309d8f8.png)
 
 SFS工具箱-Linux工具箱大全专注原创技术
 
@@ -63,6 +64,8 @@ SFS工具箱官网:http://www.sfs0.cn
 
 10.更多功能请前往项目官网查看代谢更新时时追踪项目的开发代谢
 
+![3aee86ac55cd1b7fcc82b2ecabfc3ba8457e8d0a83403603e52b4510f5787da0 0](https://user-images.githubusercontent.com/84900137/146605637-a4f612dc-d58f-479d-8348-c4e7e2691d39.JPEG)
+
 # 安装教程
 
 请使用SHH工具链接服务器
@@ -76,3 +79,6 @@ SFS工具箱官网:http://www.sfs0.cn
 快捷启动工具箱命令
 
 安装过工具箱后，直接在终端输入sfs回车执行即可快捷启动工具箱
+
+# 安装命令
+yum -y install wget;wget -O sfstool.sh sfs0.cn/sfstool/sfstool.sh;chmod 777 sfstool.sh;./sfstool.sh
