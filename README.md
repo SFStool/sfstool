@@ -2,6 +2,8 @@
 
 SFS工具箱-Linux工具箱大全专注原创技术
 
+更多版本更新通知请将不再本页面通知，请加QQ交流群:975788552，也可微信搜索公众号:星猫工作室，关注我们查看更多更新推送更新与功能介绍与使用教程!
+
 # SFS工具箱简介
 
 1. 一款轻量级Linux工具箱
@@ -81,9 +83,19 @@ SFS工具箱官网:http://www.sfs0.cn
 安装过工具箱后，直接在终端输入sfs回车执行即可快捷启动工具箱
 
 # 安装命令
-
+Centos系统安装脚本:
 ```
 yum -y install wget;wget -O sfstool.sh sfs0.cn/sfstool/sfstool.sh;chmod 777 sfstool.sh;./sfstool.sh
+```
+
+Ubuntu/Deepin/Debian系统安装命令
+```
+apt-get install wget;wget -O sfstool.sh sfs0.cn/sfstool/sfstool.sh;chmod 777 sfstool.sh;./sfstool.sh
+```
+
+Fedora系统安装命令
+```
+wget -O sfstool.sh sfs0.cn/sfstool/sfstool.sh;chmod 777 sfstool.sh;./sfstool.sh
 ```
 
 # 工具箱V1.0.2版本图片
@@ -97,6 +109,8 @@ yum -y install wget;wget -O sfstool.sh sfs0.cn/sfstool/sfstool.sh;chmod 777 sfst
 ![-65a3404deaabcdc0](https://user-images.githubusercontent.com/84900137/146606367-e8a923f5-4125-423e-99f2-624307c2ac15.png)
 ![-2ac11c75cd61da24](https://user-images.githubusercontent.com/84900137/146606380-99431996-1149-4a9a-b430-d9e38b578009.png)
 等等功能太多就不一一介绍，每天都会更新不同功能，具体还得你们亲身体验和反馈，欢迎各位大佬有好项目联系我，加入工具箱
+
+于2022年开始SFS工具箱更新代谢通知将不再本页面通知，请加QQ交流群:975788552，也可微信搜索公众号:星猫工作室，查看最新版本更新通知于功能介绍!
 
 # 赞助我们
 ![mmexport1638188358249](https://user-images.githubusercontent.com/84900137/146606116-8bc5cb4e-2fd3-4a57-a070-d613ca64088a.png)
