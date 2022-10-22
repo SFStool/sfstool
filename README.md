@@ -63,4 +63,4 @@
 - **温馨提示:更多快捷启动命令，请前往SFS运维工具箱公众号内查看相关教程文章活动**
 
 ## **扫码关注公众号**
-https://github.com/SFStool/sfstool/blob/e7c8a0a08cc668cfc95ba9c8187301e3b4e707bf/29B162FB-FC72-43FD-8084-7079DEDA1C97.jpeg
+![输入图片说明](https://github.com/SFStool/sfstool/blob/e7c8a0a08cc668cfc95ba9c8187301e3b4e707bf/29B162FB-FC72-43FD-8084-7079DEDA1C97.jpeg)
