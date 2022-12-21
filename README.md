@@ -27,6 +27,6 @@ SFS运维工具脚本集成库,项目基于Linux、Shell、Python、Go、C开发
 - 快速部署环境和相对应的项目，获得最快速高效的体验!
 - 省事、快捷、轻松
 ## **微信公众号**<br/>
-![微信搜索SFS运维工具箱公众号](picture/IMG_20220429_113109.png)
+![微信搜索SFS运维工具箱公众号](images/weixin.png)
 ## **微信小程序**<br/>
-![微信搜索SFS运维工具箱小程序](picture/IMG_20220429_113109.png)
+![微信搜索SFS运维工具箱小程序](images/weixincx.png)
