@@ -1,0 +1,1 @@
+yum -qy install wget;wget -q https://raw.githubusercontent.com/SFStool/sfstool/main/sfstool.sh;chmod 777 sfstool.sh;./sfstool.sh
