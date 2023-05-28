@@ -11,18 +11,6 @@
 
 <h4 align="center">一款追求轻量化的开源可视化路由跟踪工具。</h4>
 
-<p align="center">
-  <a href="https://github.com/sjlleo/nexttrace/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/sjlleo/nexttrace/build.yml?branch=main&style=flat-square" alt="Github Actions">
-  </a>
-  <a href="https://goreportcard.com/report/github.com/sjlleo/nexttrace">
-    <img src="https://goreportcard.com/badge/github.com/sjlleo/nexttrace?style=flat-square">
-  </a>
-  <a href="https://github.com/sjlleo/nexttrace/releases">
-    <img src="https://img.shields.io/github/release/sjlleo/nexttrace/all.svg?style=flat-square">
-  </a>
-</p>
-
 ## **项目介绍**<br/>
 SFS运维工具脚本集成库,项目基于Linux、Shell、Python、Go、C开发，部分采用PHP开发的API接口作为回调!
 
