@@ -1,15 +1,7 @@
 <div align="center">
 
 <img src="images/logo.JPG" height="200px" alt="NextTrace Logo"/>
-
 </div>
-
-<h1 align="center">
-  <br>NextTrace<br>
-</h1>
-
-
-<h4 align="center">一款追求轻量化的开源可视化路由跟踪工具。</h4>
 
 ## **项目介绍**<br/>
 SFS运维工具脚本集成库,项目基于Linux、Shell、Python、Go、C开发，部分采用PHP开发的API接口作为回调!
