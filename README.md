@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="images/logo.JPG" height="200px" alt="NextTrace Logo"/>
-</div>
-
 ## **项目介绍**<br/>
 SFS运维工具脚本集成库,项目基于Linux、Shell、Python、Go、C开发，部分采用PHP开发的API接口作为回调!
 
